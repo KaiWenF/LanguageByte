@@ -30,8 +30,7 @@ The app uses the following Apple Watch features:
 We reserve the right to update this privacy policy at any time. Any changes will be reflected in this document with an updated revision date.
 
 ## Contact
-If you have questions about this privacy policy, please contact us at:
-[Your Contact Information]
+If you have questions about this privacy policy, please contact us at: kaiwen@kaiwen.com
 
 ## Additional Information
 This app does not:
