@@ -46,8 +46,7 @@ Access your word history through the settings menu.
 - Restart your watch
 
 ## Contact Support
-For additional support, please contact:
-[Your Contact Information]
+For additional support, please contact: kaiwen@kaiwen.com
 
 ## Updates
 This document will be updated as new features are added or changes are made to the app.
