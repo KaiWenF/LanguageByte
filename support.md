@@ -80,7 +80,7 @@ For additional support or to report issues, please contact:
 ## Version Information
 - Current Version: 1.0
 - Requires watchOS 11.2 or later
-- Last Updated: [Current Date]
+- Last Updated: 04/01/2025
 
 ## Privacy
 Language Byte respects your privacy:
